@@ -1,4 +1,4 @@
-<img width="2879" height="1613" alt="image" src="https://github.com/user-attachments/assets/9b651747-1d94-4cc5-ad4f-0c88c81fc40b" /># 🎨 React Paint App
+# 🎨 React Paint App
 
 Welcome to the **React Paint App** — a fun and interactive application where you can unleash your creativity! 🖌️ Create your own drawings inside a customizable canvas box, and save your artwork locally with just a click! 💾
 
